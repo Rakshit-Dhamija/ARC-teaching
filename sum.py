@@ -4,3 +4,5 @@ h=1
 print(h)
 l=12312
 print(l)
+a=12
+print(a)
